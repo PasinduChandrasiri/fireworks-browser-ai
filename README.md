@@ -65,6 +65,12 @@ I tested the tool on my personal website hosted on **Vercel** to:
 
 > 📸 Demo images and screenshots of real-world usage (SEO audit + eBay results) available in the `media/` folder!
 
+![Image 1](media/example1.png) 
+![Image 2](media/example2.png) 
+![Image 3](media/example3.png)
+![Image 1](media/example4.png) 
+![Image 2](media/example5.png) 
+![Image 3](media/example6.png)
 ---
 
 ## 📌 Credits
